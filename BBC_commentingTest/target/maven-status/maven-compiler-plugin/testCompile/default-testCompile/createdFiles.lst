@@ -1,0 +1,7 @@
+fileReaders\ConfigFileReader.class
+pageObjects\HomePage.class
+pageObjects\SignInPage.class
+runners\TestRunner.class
+pageObjects\SportsPage.class
+genericActions\GenaricActionMethods.class
+stepDefinitions\CommentingFeatureTestSteps.class
