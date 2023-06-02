@@ -5,6 +5,8 @@ Program language: java
 Testing suite: selenium webDriver
 Testing approach: BDD cucumber
 
+note: point the JRE system librsry to installed jre path(jre 1.8 preferable)
+
 Overview
 -----------------------------------
 This framework is a BDD driven automation test framework where the feature and scenarios are written 
